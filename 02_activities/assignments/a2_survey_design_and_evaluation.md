@@ -9,7 +9,11 @@ The goal of this assignment is to practice developing and evaluating sampling ma
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
 1.	In two to three sentences, describe the purpose of your survey
+
+
 2.	Describe your target population, sampling frame, sampling units, and overall sampling strategy.
+
+
 3.	Write a 5-10 question survey to address your chosen scenario below.
 
 ##### Scenarios
@@ -40,30 +44,40 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `# 3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The survey aims to explore how music tastes, especially perceptions of popular music, are influenced by age. It seeks to understand whether and how age impacts preferences and attitudes toward different genres and artists, contributing to academic insights on the relationship between age and musical perception.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+- Target population: Individuals aged 15 to 70+ across diverse demographics in Canada, representing various age groups.
+- Sampling frame: University student and community survey panels, online music and culture forums, and social media platforms with diverse age representation.
+- Sampling units: Individual respondents aged within the specified range, providing data on their music preferences and perceptions.
+- Sampling strategy: Stratified random sampling to ensure representation across different age groups (e.g., 15-24, 25-34, 35-44, 45-54, 55-64, 65+), with proportional sampling within each group to allow meaningful comparisons.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age?
+    [Open-ended response or age range options: 15-24, 25-34, 35-44, 45-54, 55-64, 65+]
+
+2. How often do you listen to music? 
+    [Response options: Daily; Several times a week; Once a week; A few times a month; Rarely/Never]
+
+3. What are your favorite music genres? (Select all that apply)
+    [Response options: Pop; Rock; Hip-hop/Rap; Country; Classical; Jazz; Electronic/Dance]
+
+4. Do your music preferences tend to change as you get older?
+    [Response oprions: Yes, significantly; Yes, somewhat; No; Not sure]
+
+5. How would you rate your perception of popular music today?
+    [Response options: Very positive; Somewhat positive; Neutral; Somewhat negative; Very negative ]
+
+6. Who is your favorite artist or band?  (optional)
+    [Open ended reponse]
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +85,54 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type
+The GSS 2018 used a probability sample of Canadian adults aged 15 and over. It also used a stratified multistage sampling design to ensure representativeness of the Canadian population.
+
+2. Sample size
+The survey included 26,183 respondents who completed the questionnaire, representing the target population.
+
+3. Target population
+The target population comprised Canadian residents aged 15 years and older living in private dwellings across all provinces and territories.
+
+4. Sampling frame
+The sampling frame was based on the Canadian Census Master List, which is a list of residential addresses eligible for survey sampling. 
+
+5. Survey mode(s) 
+The data collection was conducted via telephone interviews using a Computer-Assisted Telephone Interviewing system. 
+
+6. Timeline
+Fieldwork was conducted from January to July 2018 and the data were processed and validated following the collections. The final results became publically available on 2020. 
+
+
+7. Response rate
+The response rate was approximately 56.0% overall, calculated based on eligible contacted households. 
+
+8. Weights
+The survey applied sample weights to adjust for unequal probabilities of selection, non-response, and to align the sample with known population demographics. These weights ensure that estimates are representative at national and provincial levels.
+
+9. Data processing
+Data processing included digitization, validation, coding of responses, and the creation of analytic variables. The raw interview data were summarized to produce cross-tabulations, summaries, and datasets for statistical analysis.
+
+10. Cleaning, imputation, etc
+Data underwent quality control procedures, including edit checks for inconsistencies or missing values. Data cleaning involved removing or flagging responses that were invalid or incomplete.
+
+11. Sources of error
+Potential sources of error include:
+
+Sampling error due to the sample size and design
+Non-sampling error from non-response bias
+Measurement error from respondent misunderstanding or inaccurate responses
+Processing errors related to data coding and entry
+
+12. Limitations, known biases, etc
+Non-response bias, especially among certain subgroups (e.g., youth, marginalized populations)
+Recall bias for questions requiring respondents to remember past behaviors
+Coverage bias if certain segments (e.g., those without phone access) were underrepresented
+The survey mainly captures self-reported data, which may be subject to social desirability bias
+
+13. Link to documentation and any additional sources used
+https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm 
+
 ```
 
 ## Rubric
